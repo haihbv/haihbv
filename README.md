@@ -1,11 +1,15 @@
+<!-- Banner -->
+![Banner](https://i.ibb.co/W0XK0qR/embedded-banner.png)
+
 # 👋 Hi, I'm Hai Bui Van
 
 💡 I'm passionate about **Embedded Systems Development** and love working with low-level programming, microcontrollers, and IoT applications.  
 
 ---
 
-## 🔥 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haihbv&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haihbv&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=haihbv&theme=radical&hide_border=true)
 
 ---
 
@@ -18,8 +22,19 @@
 - C / C++ for Microcontrollers  
 - ARM Cortex-M, STM32, AVR  
 - RTOS (FreeRTOS)  
-- Communication Protocols: UART, I2C, SPI, CAN  
+- Communication Protocols: USART, I2C, SPI, USB  
 - Hardware Debugging & Firmware Development  
+
+---
+
+## 🔧 Tools & Technologies
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeRTOS-00C7B7?style=for-the-badge&logo=freertos&logoColor=white"/>
 
 ---
 
