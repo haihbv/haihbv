@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/W0XK0qR/embedded-banner.png)
+![Banner](<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/c897d0d4-6b25-4115-a9a1-b047221c3ed7" />)
+
 
 # 👋 Hi, I'm Hai Bui Van
 
