@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./banner.png)
+![Banner](./waifu.jpg)
 
 
 # 👋 Hi, I'm Hai Bui Van
